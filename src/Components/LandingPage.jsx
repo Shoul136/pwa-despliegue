@@ -46,7 +46,7 @@ const LandingPage = () => {
 
     <article className="w-1/5 ml-8">
         <div className="rounded-lg overflow-hidden shadow-lg">
-            <img src="../../public/Seguridad.jpg" alt="Descripción de la imagen" className="w-full" />
+            <img src="/Seguridad.jpg" alt="Descripción de la imagen" className="w-full" />
         </div>
     </article>
 </section>
@@ -91,19 +91,19 @@ const LandingPage = () => {
 
         <div className="flex justify-center space-x-8">
             <div className="bg-gray-800 rounded-lg p-6 text-center flex-1 transition-transform transform hover:scale-105">
-             <img src="../../public/react.png" alt="Icono React" className="w-13 h-16  mx-auto mb-6" />
+             <img src="/react.png" alt="Icono React" className="w-13 h-16  mx-auto mb-6" />
                 <h3 className="text-xl font-semibold mb-2">React</h3>
                 <p className="text-sm">Biblioteca JavaScript para construir interfaces de usuario interactivas.</p>
             </div>
 
             <div className="bg-gray-800 rounded-lg p-6 text-center flex-1 transition-transform transform hover:scale-105">
-                <img src="../../public/laravel.png" alt="Icono Laravel" className="w-44 h-34 mx-auto mb-1" />
+                <img src="/laravel.png" alt="Icono Laravel" className="w-44 h-34 mx-auto mb-1" />
                 <h3 className="text-xl font-semibold mb-2">Laravel</h3>
                 <p className="text-sm">Framework PHP para el desarrollo de aplicaciones web.</p>
             </div>
 
             <div className="bg-gray-800 rounded-lg p-6 text-center flex-1 transition-transform transform hover:scale-105">
-                <img src="../../public/arduino.png" alt="Icono Arduino" className="w-25 h-20 mx-auto mb-4" />
+                <img src="/arduino.png" alt="Icono Arduino" className="w-25 h-20 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Arduino C++</h3>
                 <p className="text-sm">Lenguaje de programación para el desarrollo en plataformas de hardware de código abierto.</p>
             </div>
@@ -116,19 +116,19 @@ const LandingPage = () => {
 
         <div className="flex justify-center space-x-8">
             <div className="bg-white rounded-lg shadow-lg p-6 flex flex-col items-center transition duration-300 ease-in-out transform hover:scale-105 h-full">
-                <img src="../../public/roque.jpeg" alt="Fundador 1" className="w-32 h-32 rounded-full mb-4 object-cover" />
+                <img src="/roque.jpeg" alt="Fundador 1" className="w-32 h-32 rounded-full mb-4 object-cover" />
                 <h3 className="text-xl font-semibold mb-2">Roque Vargas Luis Roberto</h3>
                 <p className="text-sm">Desarrollador Front End</p>
             </div>
 
             <div className="bg-white rounded-lg shadow-lg p-6 flex flex-col items-center transition duration-300 ease-in-out transform hover:scale-105 h-full">
-                <img src="../../public/juan.jpeg" alt="Fundador 2" className="w-32 h-32 rounded-full mb-4 object-cover" />
+                <img src="/juan.jpeg" alt="Fundador 2" className="w-32 h-32 rounded-full mb-4 object-cover" />
                 <h3 className="text-xl font-semibold mb-2">Reyes Navarro Juan Alberto</h3>
                 <p className="text-sm">Implementacion de IoT</p>
             </div>
 
             <div className="bg-white rounded-lg shadow-lg p-6 flex flex-col items-center transition duration-300 ease-in-out transform hover:scale-105 h-full">
-                <img src="../../public/wyli.jpeg" alt="Fundador 3" className="w-32 h-32 rounded-full mb-4 object-cover" />
+                <img src="/wyli.jpeg" alt="Fundador 3" className="w-32 h-32 rounded-full mb-4 object-cover" />
                 <h3 className="text-xl font-semibold mb-2">Cordero Tovilla Wyliam</h3>
                 <p className="text-sm">Desarrollador Back End</p>
             </div>
