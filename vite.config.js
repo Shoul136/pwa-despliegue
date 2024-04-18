@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react-swc'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  base: "https://Shoul136.github.io/",
+  base:"https://Shoul136.github.io/security-control",
   plugins: [
     react(), 
     VitePWA({
